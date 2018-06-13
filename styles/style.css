@@ -1,0 +1,39 @@
+body { 
+    padding-top: 60px; 
+}
+
+.top-brand {
+    font-family: 'Roboto Slab', serif;
+    font-size: 24px;
+}
+
+.navbar-links {
+    font-size: 20px;
+}
+
+.navbar-nav > li{
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.carousel-item {
+    height: 700px;
+}
+
+.carousel-image-1 {
+    background: url('../img/ingredients.jpg');
+    background-size: cover;
+}
+.carousel-image-2 {
+    background: url('../img/pasta.jpg');
+    background-size: cover;
+}
+.carousel-image-3 {
+    background: url('../img/dough.jpg');
+    background-size: cover;
+}
+
+#main-footer {
+    background: black;
+}
+
